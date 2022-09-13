@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "IdCliente": 1,
+      "Nombre": "Facundo",
+      "Apellido": "Dip",
+      "Estado": "A"
+    },
+    {
+      "IdCliente": 2,
+      "Nombre": "Pichi",
+      "Apellido": "Carrizo",
+      "Estado": "A"
+    },
+    {
+      "IdCliente": 3,
+      "Nombre": "Benjamin",
+      "Apellido": "Cascales",
+      "Estado": "A"
+    },
+    {
+      "IdCliente": 4,
+      "Nombre": "Fortune",
+      "Apellido": "Miss",
+      "Estado": "B"
+    },
+    {
+      "IdCliente": 5,
+      "Nombre": "Tristana",
+      "Apellido": "ADC",
+      "Estado": "B"
+    }
+  ]
+}

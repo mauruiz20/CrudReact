@@ -1,10 +1,11 @@
 import './App.css';
-import Crud from './components/Crud';
+import CrudApp from './components/CrudApp';
 
 function App() {
   return (
     <div className="App">
-      <Crud />
+      <CrudApp />
+      <hr />
     </div>
   );
 }

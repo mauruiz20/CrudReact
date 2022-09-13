@@ -45,7 +45,8 @@ const Crud = () => {
   };
 
   const updateData = (data) => {
-
+    let newData = db.map(elemento => elemento.IdCliente === data.IdCliente ? data : elemento);
+    setDb(newData);
   };
 
   const deleteData = (id) => {
